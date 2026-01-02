@@ -11,6 +11,7 @@
 class Utils {
 public:
     static std::string printVector(std::vector<int> vec);
+    static std::string printVector(std::vector<char> &vec);
 };
 
 
